@@ -1,23 +1,23 @@
 Q1. What is your first and last name? (This is important so that we can link your GitHub username to you.)
 
-A1. <WRITE YOUR ANSWER TO Q1 HERE>
+A1. Kai Carlson.
 
 Q2. Do you have any programming experience? If so, how much, and what programming languages have you used?
 
-A2. <WRITE YOUR ANSWER TO Q2 HERE>
+A2. A little, I took a semester python class in highschool, and had done some smaller projects in the past in python, but I am still very much a beginner in terms of coding.
 
 Q3. Do you have experience writing code in C++?
 
-A3. <WRITE YOUR ANSWER TO Q3 HERE>
+A3. Nope.
 
 Q4. How do you think learning to solve computational problems and write programs could benefit an engineer, regardless of their field?
 
-A4. <WRITE YOUR ANSWER TO Q4 HERE>
+A4. any kind of new thinking strategy/method is valuable for engineers as it gives them access to more methods of problem solving which is a valuable skill for every engineering field.
 
 Q5. Do you think learning to solve computational problems and write programs could benefit you in everyday life? If so, how?
 
-A5. <WRITE YOUR ANSWER TO Q5 HERE>
+A5. Well as I mentioned above any new way/method of thinking is valuable for problem solving and problem solving isn't limited to just areas of the engineering field, the ability to solve problems is a neccesity for everyday life.
 
 Q6. We may have time for a special topics lecture at the end of the term, depending on how the term unfolds. Are there any special topics related to computer science that you're curious about? (e.g., an introduction to machine learning, computer graphics, object oriented programming, functional programming, frontend development, backend development, databases, cloud development, mobile app development, etc.)
 
-A6. <WRITE YOUR ANSWER TO Q6 HERE>
+A6. Well I don't know what topic this would fall under, but I've always been curious about ways to customize your personal devices beyond what they allow you to do in settings. Like being able to change the colors and symbols of certain websites and apps on your end. I dunno, knowing how to do stuff like that would be pretty cool but I'm not sure if that falls under a specific topic we could cover, or if it is even possible.
